@@ -633,7 +633,7 @@ ul{
 }
 
 @media screen and (max-width:1080px) {
-    .footer{
+    footer{
         flex-direction: column;
         align-items: center;
     }
